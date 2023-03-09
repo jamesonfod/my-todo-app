@@ -1,4 +1,6 @@
 
+# streamlit run web.py
+
 import streamlit as st
 import functions
 
